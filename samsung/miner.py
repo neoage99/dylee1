@@ -24,4 +24,5 @@ class Samsung:
 
     @staticmethod
     def change_token(texts):
-        tokens = word_tokenize()_
+        tokens = word_tokenize(texts)
+        # print(tokens[:300])

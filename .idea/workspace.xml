@@ -12,16 +12,11 @@
       <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/data_mining.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/plotting.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/austen_emma/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/austen_emma/miner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung/data/kr-Report_2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung/miner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day1-2" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day1-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samsung/miner.py" beforeDir="false" afterPath="$PROJECT_DIR$/samsung/miner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/samsung/miner.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -459,7 +454,7 @@
     <entry file="file://$PROJECT_DIR$/samsung/miner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
